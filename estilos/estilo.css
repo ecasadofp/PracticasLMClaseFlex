@@ -1,6 +1,6 @@
 * {
-margin: 0px;
-padding: 0px;
+    margin: 0px;
+    padding: 0px;
 }
 
 header {
@@ -11,7 +11,7 @@ header {
 }
 
 a {
-    text-decoration: none;   
+    text-decoration: none;
 }
 
 ul {
@@ -19,9 +19,9 @@ ul {
     display: flex;
     gap: 2em;
 }
+
 nav {
     display: flex;
-
 }
 
 nav a {
@@ -29,9 +29,7 @@ nav a {
 }
 
 .idiomas a {
-
     color: #FFF;
     background-color: #888;
     padding: 1em;
-
 }
